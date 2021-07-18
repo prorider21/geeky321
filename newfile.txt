@@ -8,4 +8,4 @@ lets go both places
 
 branch 2 set ride date to 2025 & branch1 changes ride date to 2022 august
 
-branch1  select scooty for ride
+branch2  select bullet for ride
