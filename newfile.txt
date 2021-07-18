@@ -6,4 +6,5 @@ let us go for a ride to munnar
 let us go for a ride to bhutan
 lets go both places
 
-branch 2 set ride date to 2022
+branch 2 set ride date to 2022 & branch1 changes ride date to 2021 august
+
